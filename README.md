@@ -1,10 +1,10 @@
 ![Ayesha](https://github.com/AyeshaSiddi/AyeshaSiddi/blob/main/Ayesha-min.gif?raw=true)
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://git%2b%2b&logoColor=00599Chub.com/adamalston?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![C#](https://img.shields.io/badge/-C#-fff?&logo=c#)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c++%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=SQL&logoColor=336791)
 
 
