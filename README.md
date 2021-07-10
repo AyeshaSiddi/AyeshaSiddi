@@ -6,7 +6,11 @@
 
 ![AI](https://img.shields.io/badge/Ai-Aritifical%20Intelligence-blue)
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-red)
+![DL](https://img.shields.io/badge/DL-Deep%20Learning-pink)
 ![DS](https://img.shields.io/badge/DS-Data%20Science-yellow)
+![DA](https://img.shields.io/badge/DA-Data%20Analysis-green)
+![BA](https://img.shields.io/badge/BA-Business%20Analysis-orange)
+
 
 <h1 align="center">Hi 👋, I'm Ayesha Siddiqa</h1>
 <h3 align="center">A passionate and upcoming Data Scientist, Machine Learning Engineer from Pakistanng Engineer</h3>
