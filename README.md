@@ -11,9 +11,10 @@
 ![DA](https://img.shields.io/badge/DA-Data%20Analysis-green)
 ![BA](https://img.shields.io/badge/BA-Business%20Analysis-orange)
 
+---
 
 <h1 align="center">Hi 👋, I'm Ayesha Siddiqa</h1>
-<h3 align="center">A passionate and upcoming Data Scientist, Machine Learning Engineer from Pakistanng Engineer</h3>
+<h3 align="center">A passionate upcoming Data Scientist, Machine Learning Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshasiddi&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshasiddi" /> </p>
 
