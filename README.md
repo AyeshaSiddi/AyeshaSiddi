@@ -6,6 +6,7 @@
 
 ![AI](https://img.shields.io/badge/Ai-Aritifical%20Intelligence-blue)
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-red)
+![DS](https://img.shields.io/badge/DS-Data%20Science-yellow)
 
 <h1 align="center">Hi 👋, I'm Ayesha Siddiqa</h1>
 <h3 align="center">A passionate and upcoming Data Scientist, Machine Learning Engineer from Pakistanng Engineer</h3>
